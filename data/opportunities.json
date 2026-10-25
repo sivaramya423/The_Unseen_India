@@ -1,0 +1,442 @@
+[
+  {
+    "id": "national-scholarship-portal",
+    "name": "National Scholarship Portal (NSP)",
+    "record_type": "portal_reference",
+    "category": "Scholarships",
+    "description": "Central government portal where scholarship schemes are listed and applications are made. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "students"
+    ],
+    "education_levels": [
+      "school",
+      "undergraduate",
+      "postgraduate",
+      "doctoral"
+    ],
+    "state_or_location": [
+      "All India"
+    ],
+    "skills_or_interests": [
+      "scholarship",
+      "financial aid",
+      "education funding"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://scholarships.gov.in/",
+    "source_name": "National Scholarship Portal",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was supplied in the project brief as an official portal. It was not opened or checked in this build. Open the link and confirm before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents",
+      "Which scholarship schemes are open this year",
+      "Education levels are curator labels, not official eligibility"
+    ]
+  },
+  {
+    "id": "national-career-service",
+    "name": "National Career Service (NCS)",
+    "record_type": "portal_reference",
+    "category": "Careers & Jobs",
+    "description": "Government career services portal for job search and career resources. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "job seekers",
+      "students",
+      "graduates"
+    ],
+    "education_levels": [
+      "any"
+    ],
+    "state_or_location": [
+      "All India"
+    ],
+    "skills_or_interests": [
+      "jobs",
+      "careers",
+      "employment"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://www.ncs.gov.in/",
+    "source_name": "National Career Service",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was supplied in the project brief as an official portal. It was not opened or checked in this build. Open the link and confirm before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents"
+    ]
+  },
+  {
+    "id": "skill-india-digital-hub",
+    "name": "Skill India Digital Hub",
+    "record_type": "portal_reference",
+    "category": "Skills & Training",
+    "description": "Government skilling platform for training courses and related resources. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "students",
+      "job seekers",
+      "youth"
+    ],
+    "education_levels": [
+      "any"
+    ],
+    "state_or_location": [
+      "All India"
+    ],
+    "skills_or_interests": [
+      "skills",
+      "training",
+      "courses",
+      "certification"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://www.skillindiadigital.gov.in/",
+    "source_name": "Skill India Digital Hub",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was supplied in the project brief as an official portal. It was not opened or checked in this build. Open the link and confirm before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents"
+    ]
+  },
+  {
+    "id": "startup-india",
+    "name": "Startup India",
+    "record_type": "portal_reference",
+    "category": "Entrepreneurship",
+    "description": "Government initiative portal with information and resources for startups and entrepreneurs. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "entrepreneurs",
+      "startups",
+      "students"
+    ],
+    "education_levels": [
+      "any"
+    ],
+    "state_or_location": [
+      "All India"
+    ],
+    "skills_or_interests": [
+      "entrepreneurship",
+      "startup",
+      "business"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://www.startupindia.gov.in/",
+    "source_name": "Startup India",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was supplied in the project brief as an official portal. It was not opened or checked in this build. Open the link and confirm before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents"
+    ]
+  },
+  {
+    "id": "tn-esevai",
+    "name": "Tamil Nadu e-Sevai",
+    "record_type": "portal_reference",
+    "category": "Public Services",
+    "description": "Tamil Nadu government portal for citizen e-services. The exact list of services must be checked on the portal. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "citizens",
+      "students"
+    ],
+    "education_levels": [
+      "any"
+    ],
+    "state_or_location": [
+      "Tamil Nadu"
+    ],
+    "skills_or_interests": [
+      "e-services",
+      "citizen services",
+      "documents"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://www.tnesevai.tn.gov.in/",
+    "source_name": "Tamil Nadu e-Sevai",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was supplied in the project brief as an official portal. It was not opened or checked in this build. Open the link and confirm before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents"
+    ]
+  },
+  {
+    "id": "naan-mudhalvan",
+    "name": "Naan Mudhalvan (Tamil Nadu skilling initiative)",
+    "record_type": "programme",
+    "category": "Skills & Training",
+    "description": "Tamil Nadu Government skilling initiative to give the state's youth industry-relevant skills. Its official pages describe technology, personal and organisational skilling modules and industry-relevant courses from training partners.",
+    "target_audience": [
+      "youth in Tamil Nadu",
+      "college students"
+    ],
+    "education_levels": [
+      "diploma",
+      "undergraduate"
+    ],
+    "state_or_location": [
+      "Tamil Nadu"
+    ],
+    "skills_or_interests": [
+      "skills",
+      "training",
+      "courses",
+      "technology",
+      "free courses"
+    ],
+    "eligibility": null,
+    "benefits": "The official free-courses page says Foundation and Deep Skilling courses are offered to youth free of cost.",
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://naanmudhalvan.tn.gov.in/about",
+    "source_name": "Naan Mudhalvan official website (naanmudhalvan.tn.gov.in)",
+    "verification_status": "partially_verified",
+    "verified_fields": [
+      "description",
+      "benefits"
+    ],
+    "last_verified": "2026-10-25",
+    "verification_note": "On 2026-10-25 the official about and free-courses pages were read through a web search and matched the description and benefits above. Eligibility, deadlines, enrolment steps and the education-level labels (taken from news coverage, not the official site) were not checked.",
+    "missing_information": [
+      "Eligibility rules for each course",
+      "Enrolment steps (for example whether it goes through the college)",
+      "Registration deadlines",
+      "Required documents",
+      "Current course list"
+    ]
+  },
+  {
+    "id": "swayam",
+    "name": "SWAYAM",
+    "record_type": "portal_reference",
+    "category": "Learning",
+    "description": "National online learning platform that hosts courses. Fees, if any, for certificates must be checked on the portal. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "students",
+      "learners"
+    ],
+    "education_levels": [
+      "any"
+    ],
+    "state_or_location": [
+      "All India"
+    ],
+    "skills_or_interests": [
+      "online learning",
+      "courses",
+      "certification"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://swayam.gov.in/",
+    "source_name": "SWAYAM",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was written from general knowledge and was not opened or checked in this build. Open the link and confirm it is the right official site before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents"
+    ]
+  },
+  {
+    "id": "nptel",
+    "name": "NPTEL",
+    "record_type": "portal_reference",
+    "category": "Learning",
+    "description": "Online course platform run by the IITs and IISc, with a focus on engineering and science subjects. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "students",
+      "learners"
+    ],
+    "education_levels": [
+      "undergraduate",
+      "postgraduate"
+    ],
+    "state_or_location": [
+      "All India"
+    ],
+    "skills_or_interests": [
+      "online learning",
+      "courses",
+      "technology",
+      "certification"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://nptel.ac.in/",
+    "source_name": "NPTEL",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was written from general knowledge and was not opened or checked in this build. Open the link and confirm it is the right official site before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents"
+    ]
+  },
+  {
+    "id": "myscheme",
+    "name": "MyScheme",
+    "record_type": "portal_reference",
+    "category": "Scheme Discovery",
+    "description": "National platform for discovering government schemes. Individual schemes must be checked on the site. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "citizens",
+      "students"
+    ],
+    "education_levels": [
+      "any"
+    ],
+    "state_or_location": [
+      "All India"
+    ],
+    "skills_or_interests": [
+      "scheme discovery",
+      "scholarship",
+      "financial aid",
+      "citizen services"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://www.myscheme.gov.in/",
+    "source_name": "MyScheme",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was written from general knowledge and was not opened or checked in this build. Open the link and confirm it is the right official site before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents"
+    ]
+  },
+  {
+    "id": "digilocker",
+    "name": "DigiLocker",
+    "record_type": "portal_reference",
+    "category": "Public Services",
+    "description": "Government digital document service for storing and sharing documents such as certificates. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "citizens",
+      "students"
+    ],
+    "education_levels": [
+      "any"
+    ],
+    "state_or_location": [
+      "All India"
+    ],
+    "skills_or_interests": [
+      "documents",
+      "citizen services",
+      "e-services"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://www.digilocker.gov.in/",
+    "source_name": "DigiLocker",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was written from general knowledge and was not opened or checked in this build. Open the link and confirm it is the right official site before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents"
+    ]
+  },
+  {
+    "id": "apprenticeship-india",
+    "name": "Apprenticeship India",
+    "record_type": "portal_reference",
+    "category": "Careers & Jobs",
+    "description": "Government portal for apprenticeship opportunities. This record points to the portal itself; it is not proof of any specific scheme or course.",
+    "target_audience": [
+      "students",
+      "job seekers",
+      "youth"
+    ],
+    "education_levels": [
+      "diploma",
+      "undergraduate",
+      "any"
+    ],
+    "state_or_location": [
+      "All India"
+    ],
+    "skills_or_interests": [
+      "apprenticeship",
+      "jobs",
+      "training",
+      "skills"
+    ],
+    "eligibility": null,
+    "benefits": null,
+    "deadline": null,
+    "required_documents": [],
+    "official_source_url": "https://www.apprenticeshipindia.gov.in/",
+    "source_name": "Apprenticeship India",
+    "verification_status": "unverified",
+    "verified_fields": [],
+    "last_verified": null,
+    "verification_note": "URL was written from general knowledge and was not opened or checked in this build. Open the link and confirm it is the right official site before relying on this record.",
+    "missing_information": [
+      "Eligibility rules for specific schemes or courses listed on the portal",
+      "Current deadlines",
+      "Benefits and amounts",
+      "Required documents"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+flowchart TD
+    U[User in browser] --> APP[app.py - Streamlit UI]
+    APP --> RADAR[Opportunity Radar]
+    APP --> CONN[Knowledge Connections]
+    APP --> GAPS[Knowledge Gap Detector]
+    APP --> CMP[Comparison]
+    APP --> ASSIST[AI Assistant]
+    RADAR --> DISC[discovery_engine.py<br/>rule-based scoring]
+    ASSIST --> DISC
+    CONN --> KC[knowledge_connections.py<br/>shared-attribute overlap]
+    GAPS --> KG[knowledge_gap_detector.py<br/>field checks]
+    KG --> DISC
+    ASSIST --> GROQ[groq_service.py]
+    RADAR -. optional explain button .-> GROQ
+    GROQ -->|official groq SDK| API[(Groq API)]
+    DISC --> DATA[(data/opportunities.json)]
+    KC --> DATA
+    KG --> DATA
+    LOADER[data_loader.py + validators.py] --> DATA
+    APP --> LOADER
+    CFG[config.py + .env] --> GROQ
